@@ -5,7 +5,8 @@ To obtain a histogram for finding the frequency of pixels in an Image with pixel
 ## Software Required:
 Anaconda - Python 3.7
 
-## Algorithm:
+## Algorithm: 
+```
 ##Step1:
 Import all the necessary libraries.
 
@@ -20,6 +21,7 @@ Using equalizeHist() we can equalize the image.
 
 ##Step5:
 Using matplotlib.pyplot plot the histogram.
+```
 ## Program:
 ```python
 # Developed By:S.Meena.
