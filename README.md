@@ -7,23 +7,23 @@ Anaconda - Python 3.7
 
 ## Algorithm: 
 '''
-##Step1:
+Step1:
 
 Import all the necessary libraries.
 
-##Step2:
+Step2:
 
 Read the images using imread() function.
 
-##Step3:
+Step3:
 
 Using calcHist() we can find the histogram of the images.
 
-##Step4:
+Step4:
 
 Using equalizeHist() we can equalize the image.
 
-##Step5:
+Step5:
 
 Using matplotlib.pyplot plot the histogram.
 '''
